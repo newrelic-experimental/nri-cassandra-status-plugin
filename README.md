@@ -1,6 +1,6 @@
 [![New Relic Experimental header](https://github.com/newrelic/opensource-website/raw/master/src/images/categories/Experimental.png)](https://opensource.newrelic.com/oss-category/#new-relic-experimental)
 
-# Cassandra Nodetool Integration [build badges go here when available]
+# Cassandra Nodetool Integration 
 
 This New Relic Infrastructure integration invokes the cassandra nodetool utility to gather cassandra node status metrics.
 
